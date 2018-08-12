@@ -1,16 +1,16 @@
-<<<<<<< HEAD
-# CL61-01
+
+
 Thanapon
 Tanakorn
 Nunthika
 Sarunyu
 Sittinon
 Avirut
-=======
+
 kasina
 jarudech
 jinnapat
 jirawat
 nattaphat
 thanakamon
->>>>>>> ddf84199d7af4ae77d5a7be279d9775c0d866694
+
